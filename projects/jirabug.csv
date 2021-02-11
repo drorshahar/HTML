@@ -1,0 +1,273 @@
+Bug id,Name,Severity,Priority,Status,Detected by ,Time,Assigned to,Detected in virsion,Detected in cycle,E.T.A,Description,Reproducible,Environment,Attachment
+10026,Numeric digits can be entered in text field in contact form.,Medium,Medium,New,Eviatar Brigman,16/12/2020 20:05,Dror shahar,1,1,28/12/2020 00:00,"When the costumer is required to fill in his phone number only numeric digits will be accepted .
+Expected - the phone number filed will not accept letters in contact us form.
+Actual - the phone number filed accepts letters in contact us form.
+Steps to reproduce:
+1.go to: www.ashqelon.net
+2.go to: ""המייל האדום""
+3. enter letters  in ""phone number"" filed .
+4. confirm the ""I am not a robot"" request .
+5.press on ""send"".",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10011/%D7%94%D7%9E%D7%99%D7%99%D7%9C+%D7%94%D7%90%D7%93%D7%95%D7%9D.png
+10024,Broken links (404) and pictures not visible. ,Medium,Medium,New,Eviatar Brigman,15/12/2020 14:05,Dror shahar,1,1,28/12/2020 00:00,"The intend was to show the schedule and pictures of the Ashqeloni dancing  band but the pictures are missing and the links are broken (404 error)
+Expected - the pictures will be visible and the links will send me to the right website in order to buy tickets for the performance .
+Actual - the pictures are missing and the links are broken (404 error)
+Steps to reproduce :
+1. go to: www.ashqelon.net
+2. go to: ""אביבה בדרכים""
+3. go to: ""מועדון אקסודוס""
+4. scroll to the end of he page.",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10021/%D7%90%D7%91%D7%99%D7%91%D7%94+%D7%91%D7%93%D7%A8%D7%9B%D7%99%D7%9D.png
+10023,Website in not compatible to 600x800 resolution.,Medium,Medium,New,Eviatar Brigman,15/12/2020 14:04,Dror shahar,1,1,28/12/2020 00:00,"When changing the resolution to 600X800 the web site is not properly visible causing the left side of the screen to not be visible.
+Expected - the website will be completely visible in 600x800 resolution.
+Actual -the website is not completely visible in 600x800 resolution.
+
+Steps to reproduce :
+1. go to: www.ashqelon.net
+2. change to resolution to 600x800.",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10019/WhatsApp+Image+2020-12-14+at+23.23.24.jpeg
+10022,No confirmation message when sending contact form.,Medium,Medium,New,Eviatar Brigman,15/12/2020 14:03,Dror shahar,1,1,28/12/2020 00:00,"When proper contact information is admitted and the ""contact us""  is send the costumer will receive a message the confirms that the form was successfully send . 
+  
+Expected - a message confirms that the form was successfully send will upper after sending the ""contact us"" form.  
+   
+Actual - there is no message that confirms the form was successfully send will upper after sending the ""contact us"" form. 
+Steps to reproduce:
+1.go to: www.ashqelon.net
+2.enter correct name , phone number, email, subject  .
+3. press on ""send"".",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10014/%D7%90%D7%99%D7%9F+%D7%94%D7%95%D7%93%D7%A2%D7%AA+%D7%90%D7%99%D7%A9%D7%95%D7%A8.png
+10021,Blank values can be entered in fields.,Medium,Medium,New,Eviatar Brigman,15/12/2020 14:03,Dror shahar,1,1,28/12/2020 00:00,"When the costumer is required to fill in his information, no fields will stay blank.
+
+Expected - the ""contact us"" form will not be sent and will alert the costumer what fields are blank . 
+
+Actual - the ""contact us"" form does send  and does not alert the costumer what fields are blank . 
+Steps to reproduce:
+1.go to: www.ashqelon.net
+2.go to : ""המייל האדום""
+3.enter name , phone number null, email null and subject.
+4.confirm the ""I am not a robot"" request .
+5.press on ""send"".",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10016/%D7%94%D7%9E%D7%99%D7%99%D7%9C+%D7%94%D7%90%D7%93%D7%95%D7%9D.png
+10020,Letters can be entered in numeric field in contact form.,Medium,Medium,New,Eviatar Brigman,15/12/2020 14:02,Dror shahar,1,1,28/12/2020 00:00,"In order to make better costumer service it demeans that proper contact information will be summited, that means when the costumer is required to fill in his name only letters will be accepted in the name filed.
+
+Expected - the name filed will not accept numeric digits in contact us form.
+
+Actual - the name filed accepts numeric digits in contact us form.
+
+Steps to reproduce:
+
+1. go to: www.ashqelon.net
+2. go to: ""המייל האדום""
+3. enter numeric digits in ""name"" filed .
+4. confirm the ""I am not a robot"" request .
+# press on ""send"".",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10024/%D7%90%D7%95%D7%AA%D7%99%D7%95%D7%AA+%D7%91%D7%A9%D7%93%D7%94+%D7%9E%D7%A1%D7%A4%D7%A8.png
+10019,Navigation bar is not present.,Medium,Medium,New,Eviatar Brigman,15/12/2020 14:01,Dror shahar,1,1,28/12/2020 00:00,"Every page on the website needs to have a navigation bar at the top right corner of the page for easy navigation .
+
+Expected - the page will have navigation bar at the top right corner.
+
+Actual - the page does not have navigation bar at the top right corner. 
+
+Steps to reproduce: 
+
+1. go to: www.ashqelon.net
+2. go to: ""גלי אשקלון""",Yes,"chrome version 87.0.4280.101
+realme 6 android 10 version RMX2063",https://eviatar89.atlassian.net/secure/attachment/10008/WhatsApp+Image+2020-12-15+at+16.17.43.jpeg
+10018,Text is too small.,Low,Medium,New,Eviatar Brigman,15/12/2020 14:00,Dror shahar,1,1,28/12/2020 00:00,"The text is too small and it is hard for users with sight disability to read them and use those functionalities.
+
+Expected - the text will be in a readable size.
+
+Actual - the text is small and hard to read.
+
+Steps to reproduce : 
+
+1. go to: www.ashqelon.net
+2. look at the top of the page.",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10007/WhatsApp+Image+2020-12-14+at+23.23.25.jpeg
+10017,Link doesnt work as hyperlink.,medium,Medium,New,Eviatar Brigman,15/12/2020 13:59,Dror shahar,1,1,28/12/2020 00:00,"The intend was to open a campaign by using links to encourage locals to register and buy from local stores.
+
+Expected - the links will send us to the register form and to the local stores.
+
+Actual - the links apper as text and not hyperlinks.
+
+Steps to reproduce :
+
+1. go to: www.ashqelon.net
+2. go to ""השבוע בעיר""
+3. go to ""קונים מאשקלונים"" 
+4. scroll to the end of he page.",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10018/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%A0%D7%99%D7%9D+%D7%A7%D7%95%D7%A0%D7%99%D7%9D.png
+10016,Left side not visible when printhing.,medium,Medium,New,Eviatar Brigman,15/12/2020 13:58,Dror shahar,1,1,28/12/2020 00:00,"When printing a page from the web site the left side of the screen is not visible.
+
+Expected - the printed page will be the same as the actual web site.
+
+Actual -the printed page is not the same as the actual web site.
+
+Steps to reproduce :
+
+1. go to: www.ashqelon.net
+2. press (ctrl+p).
+3. press on ""print""",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10005/%D7%94%D7%93%D7%A4%D7%A1%D7%94+q1.png
+10015,Accessibilty menu missing.,High,Medium,New,Eviatar Brigman,14/12/2020 18:23,Dror shahar,1,1,28/12/2020 00:00,"By israeli law a public website most be accessible to disabled people.
+
+Expected - the website will be accessible to disabled people.
+
+Actual - the website does not have accessibility menu and is not accessible to disabled people.
+
+Steps to reproduce :
+
+1.go to : www.ashqelon.net",Yes,"Firefox Version 83.0
+
+Microsoft Edge Version 87.0.664.60
+
+Chrome Version 87.0.4280.88
+
+Lenovo Windows 10",https://eviatar89.atlassian.net/secure/attachment/10004/%D7%94%D7%93%D7%A4%D7%A1%D7%94.png
+10037,The text is not aligned,Medium,Medium,New,dror shahar,18/12/2020 00:40,Eviatar Brigman,1,1,01/01/2021 00:00,"Steps to reproduce:
+1. Go to https://www.ashqelon.net/ 
+2. Scroll down to the bottom of the page
+
+Actual Result:
+The text and links at the bottom of the page are not aligned
+
+Expected Result:
+The text will be aligned and easy to read",Yes,"Microsoft Edge Version 87.0.664.60
+Chrome Version 87.0.4280.88
+Windows 10",https://eviatar89.atlassian.net/secure/attachment/10040/%D7%98%D7%A7%D7%A1%D7%98+%D7%9C%D7%90+%D7%9E%D7%A1%D7%95%D7%93%D7%A8.png
+10036,advertisement waste bandwidth,Medium,Medium,New,dror shahar,18/12/2020 00:33,Eviatar Brigman,1,1,31/12/2020 00:00,"Steps to reproduce:
+1. Go to  https://www.ashqelon.net/ 
+2. Scroll down the page
+
+Actual Result:
+גלי אשקלונט  advertisement is displayed many times and waste bandwidth
+
+Expected Result:
+The advertisement will be displayed once on the page",Yes,"Realme 6 android 10 version RMX2063
+Galaxy J7 Android 5.1 version SM-J700F",https://eviatar89.atlassian.net/secure/attachment/10036/Snag_57e9d6fe.png
+10035,Images do not open properly,Medium,Medium,New,dror shahar,18/12/2020 00:09,Eviatar Brigman,1,1,31/12/2020 00:00,"Steps to reproduce:
+1. Go to https://www.ashqelon.net/
+2. Open אביבה בדרכים
+3. Scroll down the page
+4. Open חוגגים את הניצחון image
+
+
+Actual Result:
+Lots of pictures that are not displayed properly
+
+Expected Result:
+The images will open properly",Yes,"Chrome version 87.0.4280.88
+Firefox Version 83.0
+Windows 10
+Realme 6 android 10 version RMX2063
+",https://eviatar89.atlassian.net/secure/attachment/10035/Snag_57d3c621.png
+10034,Unused space,Medium,Medium,New,dror shahar,17/12/2020 23:52,Eviatar Brigman,1,1,29/12/2020 00:00,"Steps to reproduce:                 
+1. Go to https://www.ashqelon.net/ 
+
+Actual Result:The advertisements end and create unused space on the site
+
+Expected Result:Utilization of the empty space on the site by adding content or advertisements  ",Yes,"Chrome version 87.0.4280.88
+Windows 10",https://eviatar89.atlassian.net/secure/attachment/10033/Snag_57c3f5e9.png
+10032,There is no compatibility in the main menu categories,Medium,Medium,New,dror shahar,17/12/2020 23:37,Eviatar Brigman,1,1,28/12/2020 00:00,"Steps to reproduce: 
+1. Go to https://www.ashqelon.net/
+
+Actual Result:
+אביבה בדרכים  category is painted gray and has no bottom line
+
+Expected Result:
+Solid color and uniform pattern of the category displayed on the home page",Yes,"Realme 6 Android 10 version RMX2063
+Galaxy J7 Android 5.1 version SM-J700F",https://eviatar89.atlassian.net/secure/attachment/10032/Snag_57b36659.png
+10031,The color of the tables in the main menu does not match,Medium,Medium,New,dror shahar,17/12/2020 23:23,Eviatar Brigman,1,1,30/12/2020 00:00,"Steps to reproduce:
+1. Go to https://www.ashqelon.net/ 
+
+Actual Result:
+There is no match between the red color of the other tables and the tables: לוח אשקלון, גלי אשקלונט ולוח דרושים
+
+Expected Result:
+Solid color and compatible with all tables in the main menu",Yes,"Firefox version 83.0
+Chrome version 87.0.4280.88",https://eviatar89.atlassian.net/secure/attachment/10031/Snag_57a9ed9b.png
+10030,No contact information,Medium,Medium,New,dror shahar,17/12/2020 23:04,Eviatar Brigman,1,1,31/12/2020 00:00,"Steps to reproduce:
+1.Go to https://www.ashqelon.net/ 
+
+Actual Result:
+No email or phone number to contact
+Expected Result:
+View email or contact phone number",Yes,"Microsoft Edge Version 87.0.664.60
+Chrome Version 87.0.4280.88
+Windows 10",
+10029,Language cannot be changed,Medium,Medium,New,dror shahar,17/12/2020 21:12,Eviatar Brigman,1,1,31/12/2020 00:00,"Steps to reproduce:
+1. Go to https://www.ashqelon.net/ 
+
+Actual Result:                        
+The site does not have access to speakers of other leading languages in Ashkelon?
+
+Expected Result:                      
+It will be possible to change the written language on the site.",Yes,"Microsoft Edge Version 87.0.664.60
+Chrome Version 87.0.4280.88
+Windows 10",https://eviatar89.atlassian.net/secure/attachment/10030/Snag_5731d874.png
+10028,An error occurs when entering the Ashkelon board page,High,Medium,New,dror shahar,17/12/2020 20:54,Eviatar Brigman,1,1,31/12/2020 00:00,"Steps to reproduce:
+1. Go to https://www.ashqelon.net/  
+2. ENTER לוח אשקלון
+
+Actual Result
+While entering the Ashkelon board page, an error is received.
+
+Expected Result:
+Entering the Ashkelon board will lead to an Ashkelon publications page.",Yes,"Firefox version 83.0
+Chrome Version 87.0.4280.88",https://eviatar89.atlassian.net/secure/attachment/10029/Snag_5720ad6f.png
+10027,The required board leads to job search in Ashdod,High,Medium,New,dror shahar,16/12/2020 22:05,Eviatar Brigman,1,1,21/12/2020 00:00,"Steps to reproduce : 
+
+1. go to https://www.ashqelon.net/ 
+
+2. go to לוח דרושים
+
+Actual result:
+The required board leads to job search in Ashdod.
+
+Expected result:
+The required board will lead us to look for work in Ashkelon.",Yes,"Chrome Version 87.0.4280.88
+windows 10",https://eviatar89.atlassian.net/secure/attachment/10027/Snag_523638f2.png
